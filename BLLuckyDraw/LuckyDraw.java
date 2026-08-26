@@ -99,9 +99,5 @@ public class LuckyDraw {
         System.out.println();
         System.out.println("=================================");
 
-        
-
-
-
     }
 }
